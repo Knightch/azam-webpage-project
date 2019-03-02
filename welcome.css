@@ -1,0 +1,125 @@
+@CHARSET "ISO-8859-1";
+
+#greeting {
+  padding:20px 10px ;
+}
+#logo {
+ padding:70px 10px;
+} 
+h1 {
+font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+color: #00004d;
+ font-size: 33pt;
+ font-weight: bold;
+ 
+ 
+}
+p1 {
+ font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+ color: #00004d;
+ font-size: 16pt;
+ font-weight:medium;
+}
+.btn-lg {
+border: 2px #EA5267;
+  background-color:#EA5267;
+  font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+  color: white;
+  font-size:18px;
+  font-weight:bold;
+  border-radius:0;
+  padding: 8px 50px;
+}
+.progress-bar-vertical {
+  width: 80px;
+  height: 300px;
+  margin-right: 60px;
+  float: left;
+}
+.progress-bar-vertical .progress-bar {
+  width: 100%;
+  height: 100%;
+  
+}
+#box {
+background-color:#EA5267;
+width:800px;
+height:300px;
+}
+#show4 {
+font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+ color: #FFD200;
+ font-size: 200pt;
+ font-weight:medium;
+ margin-bottom:-50px;
+ margin-top:-50px
+}
+.experience {
+padding:30px 30px;
+}
+h2 {font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+color: #FFFFFF;
+ font-size: 23pt;
+ font-weight: bold;
+}
+p2 {font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+color: #FFFFFF;
+ font-size: 12pt;
+ font-weight: medium;
+}
+p3 {font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+color: #FFFFFF;
+ font-size: 10pt;
+ font-weight: medium;
+}
+p4 {font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+color: #FFFFFF;
+ font-size: 10pt;
+ font-weight: medium;
+}
+.experienceyear {
+ padding:30px 30px;
+} 
+#box2 {
+ position: absolute;
+  
+  top: 650px;
+  z-index: -1;
+ background-color:#08096C;
+ width:100%;
+ height:1800px;
+ padding:40px;
+}
+sm { font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+ color: #EA5267;
+ padding:80px 60px;
+ font-size: 10pt;
+ font-weight: medium;
+}
+h4 {font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+ color: #FFD200;
+ padding:40px;
+ font-size: 53pt;
+ font-weight: bold;
+}
+p6 {font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+ color: #EA5267;
+ padding:40px;
+ font-size: 18pt;
+ font-weight: medium;
+}
+.imagesection {
+padding:50px;
+}
+h5 {font-family: "Futura, "Trebuchet MS", Arial, sans-serif";
+ color: #FFD200;
+ padding:40px;
+ font-size: 33pt;
+ font-weight: bold;
+ }
+#box3 {
+background-color:white;
+height:400px;
+width:300px;
+padding:50px;
+}

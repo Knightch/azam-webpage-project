@@ -1,0 +1,14 @@
+<html>
+  <head>
+  <hr>
+
+  <style>
+     hr {
+        transform: rotate(90deg);
+     }
+  </style>
+  </head>
+  <body>
+      <hr>
+  </body>
+</html>
